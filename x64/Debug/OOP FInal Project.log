@@ -1,0 +1,140 @@
+﻿  MainGame.cpp
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(130,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(130,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(138,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(227,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(227,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(369,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(373,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(373,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(377,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(377,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(388,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(395,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(395,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(403,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(403,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(450,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(536,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(536,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(547,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(547,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(671,35): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(671,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(767,32): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(767,28): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(772,32): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\MainGame.cpp(772,28): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  OOP FInal Project.vcxproj -> C:\Users\tower\OneDrive\Desktop\Fast-Nu\2nd Semester\OOP\22L_7852&22L_7974\x64\Debug\OOP FInal Project.exe
